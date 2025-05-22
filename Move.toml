@@ -1,0 +1,9 @@
+[package]
+name = "move7540"
+version = "0.1.0"
+
+[dependencies]
+AptosFramework = { local = "aptos-core/aptos-move/framework/aptos-framework" }
+
+[addresses]
+eip7540 = "0x7540" 
